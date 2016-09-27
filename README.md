@@ -6,7 +6,7 @@
 
 This script will help you to solve roots of quadratic equation.
 
-***How to use:
+###How to use:
 
 | Command | Description |
 | --- | --- |
